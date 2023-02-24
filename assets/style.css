@@ -61,6 +61,10 @@ body {
 	height: 20px;
 }
 
+.carousel-inner img {
+	height: 100%;
+}
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
